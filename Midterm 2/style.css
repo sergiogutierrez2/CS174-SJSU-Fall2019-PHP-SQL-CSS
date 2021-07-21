@@ -1,0 +1,6 @@
+html,head{marging:0px;padding:0px;}
+body,body *{font-family:Calibri;font-size:1.2rem;}
+.error{color:#d43e3e;font-weight:bold;}
+.info{color:#736060;}
+.warn{color:#ca8b18;}
+.success{color:#1bc31b;}
